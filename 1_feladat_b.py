@@ -1,5 +1,5 @@
 p_languages = []
-with open('adatok/1Timeline_of_ programming_languages.txt', 'r', encoding='utf-8') as forrasfajl:
+with open('adatok/Timeline_of_ programming_languages.txt', 'r', encoding='utf-8') as forrasfajl:
     next(forrasfajl)
     next(forrasfajl)
     for sor in forrasfajl:
